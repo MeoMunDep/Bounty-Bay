@@ -51,12 +51,12 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```
 
-### 2. `datas.txt` 🗂️ - Cookie, learn to get it from here [Link](https://t.me/KeoAirDropFreeNe/257/713)
+### 2. `datas.txt` 🗂️ - Cookie, learn to get it from here [Link](https://t.me/KeoAirDropFreeNee/1262)
 
 ```txt
-query_id.../user...
-query_id.../user...
-query_id.../user...
+cookie...
+cookie...
+cookie...
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
@@ -82,6 +82,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "bounty Bay-main"; node meomundep`
+> To run the bot, use the following command: `cd "bounty Bay-main/bounty bay"; node meomundep`
 
 🎇Enjoy!
