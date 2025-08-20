@@ -9,7 +9,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> > > Help me with your referral [Link](https://t.me/bountybay_bot/deals?startapp=invite-190214ccb)
+> Help me with your referral [Link](https://t.me/bountybay_bot/deals?startapp=invite-190214ccb)
 
 ## 🚀 Getting Started
 
