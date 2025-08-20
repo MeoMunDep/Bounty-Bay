@@ -1,8 +1,8 @@
 {
     "limit": 100,
     "countdown": 300,
-    "country_time": "en-US",
     "delayEachAccount": [1, 1],
     "timeToRestartAllAccounts": 300
   }
+
   
