@@ -32,7 +32,6 @@ create_default_configs() {
 {
     "limit": 100,
     "countdown": 300,
-    "country_time": "en-US",
     "delayEachAccount": [1, 1],
     "timeToRestartAllAccounts": 300
   }
@@ -84,7 +83,7 @@ while true; do
 
             check_configs
 
-            for file in datas.txt wallets.txt proxies.txt; do
+            for file in datas.txt proxies.txt; do
                 if [ ! -f "$file" ]; then
                     touch "$file"
                     print_green "Created $file"
