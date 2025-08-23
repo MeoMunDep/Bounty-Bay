@@ -29,7 +29,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-proxy-agent
+   npm i user-agents axios meo-forkcy-proxy meo-forkcy-colors meo-forcky-utils
    ```
 
 2. **Prepare Configuration Files:**
@@ -81,6 +81,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "bounty Bay"; node meomundep`
+> To run the bot, use the following command: `cd "bounty-bay"; node meomundep`
 
 🎇Enjoy!
