@@ -1,15 +1,14 @@
 📞 Contact
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
+[Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
-
-> If you encounter any issues or have questions, feel free to reach out:
+If you encounter any issues or have questions, feel free to reach out:
 
 - Contact: [Link](t.me/MeoMunDep)
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> Help me with your referral [Link](https://t.me/bountybay_bot/deals?startapp=invite-190214ccb)
+Help me with your referral [Link](https://t.me/bountybay_bot/deals?startapp=invite-190214ccb)
 
 ## 🚀 Getting Started
 
@@ -47,7 +46,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300
 }
-
 ```
 
 ### 2. `datas.txt` 🗂️ - Cookie, learn to get it from here [Link](https://t.me/KeoAirDropFreeNee/1262)
